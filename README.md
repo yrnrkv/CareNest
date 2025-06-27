@@ -1,4 +1,4 @@
-# CareNest – Incubator Monitoring & Maintenance Prediction
+# CareNest – Baby Incubator Monitoring & Maintenance Prediction
 
 **CareNest** is an AI toolkit that keeps low‑cost neonatal incubators running in remote clinics.  
 It combines two complementary models:
